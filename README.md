@@ -7,3 +7,8 @@
   - https://www.npmjs.com/package/strapi-plugin-medusajs
 - https://www.npmjs.com/package/medusa-plugin-shopify-ts Another plugin to pull from shopify, taking advantage of the batched processing
 - https://www.npmjs.com/package/medusa-payment-razorpay
+
+## Next Starter
+
+- https://github.com/florian-lefebvre/medusa-contest-nextjs-starter
+- https://github.com/Seek4samurai/Medusa-NextJs-StoreFront
