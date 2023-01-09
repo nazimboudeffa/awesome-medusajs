@@ -7,6 +7,7 @@
   * https://www.npmjs.com/package/strapi-plugin-medusajs
 * https://www.npmjs.com/package/medusa-plugin-shopify-ts Another plugin to pull from shopify, taking advantage of the batched processing
 * https://www.npmjs.com/package/medusa-payment-razorpay
+* https://www.npmjs.com/package/medusa-source-prestashop
 
 ## Next Starter
 
