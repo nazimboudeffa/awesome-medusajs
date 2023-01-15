@@ -17,3 +17,7 @@
 ## Svelte
 
 * https://github.com/Hetarth02/medusa-svelsa
+
+## GraphQL
+
+* https://github.com/callmekatootie/medusajs-graphql
