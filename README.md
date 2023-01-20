@@ -9,6 +9,8 @@
 * https://www.npmjs.com/package/medusa-payment-razorpay
 * https://www.npmjs.com/package/medusa-source-prestashop
 * https://www.npmjs.com/package/@medusa-vue/components
+* https://www.npmjs.com/package/@medusa-vue/core
+* *https://github.com/yinkakun/medusa-file-r2
 
 ## Next Starter
 
